@@ -1,0 +1,8 @@
+{
+    "configuration": "FlashMode=qio,FlashFreq=80,PartitionScheme=default,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:m5stack-core-esp32",
+    "programmer": "esptool",
+    "output": "./outputs",
+    "sketch": "m5wallpaper\\m5wallpaper.ino",
+    "port": "COM4"
+}
